@@ -33,4 +33,3 @@ To build a machine learning model that predicts whether a customer will **churn 
 
 ---
 
-## 📂 Project Structure
